@@ -7,6 +7,7 @@ public class master {
 		System.out.println("Exercise2");
 		//This change is in branch master class master for exercise 3
 		//first commit for exercise 4
+		//Seconf commit for exercise 4
 	}
 
 }
